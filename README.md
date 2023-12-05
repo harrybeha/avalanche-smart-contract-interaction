@@ -1,4 +1,4 @@
-# avalanche-smart-contract-interaction       
+# avalanche-smart-contract-interaction        
 The avalanche-smart-contract-interaction script provides a streamlined way to interact with smart contracts on the Avalanche blockchain. 
 Utilizing the Avalanche.js library and the Avalanche C-Chain, this script allows users to deploy and call smart contracts, as well as query contract information. It serves as a practical foundation for developers and enthusiasts engaging with smart contracts on the Avalanche network.
 const { Avalanche, BinTools, Buffer } = require('avalanche');
